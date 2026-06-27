@@ -1,4 +1,4 @@
-# 🌐 CodeAlpha Language Translator (Task 1)
+# 🌐 CodeAlpha Language Translator (Task)
 
 **A full-stack language translation web application built with React.js and Django REST Framework.**
 
